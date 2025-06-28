@@ -23,7 +23,7 @@ This is a simple React app that displays a random inspirational quote every time
 ## 📂 How to Run Locally
 
 1. Clone the repository  
-   `git clone https://github.com/YOUR_USERNAME/quote-generator.git`
+   `git clone https://github.com/YashPardeshix/quote-generator`
 
 2. Navigate to the folder  
    `cd quote-generator`
